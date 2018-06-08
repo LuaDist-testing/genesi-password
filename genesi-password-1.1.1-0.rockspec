@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "genesi-password"
-version = "1.1-0"
+version = "1.1.1-0"
 
 -- LuaDist source
 source = {
-  tag = "1.1-0",
+  tag = "1.1.1-0",
   url = "git://github.com/LuaDist-testing/genesi-password.git"
 }
 -- Original source
 -- source = {
--- 	url = "https://github.com/TiagoDanin/GenesiPassword/archive/1.1.0.tar.gz",
--- 	dir = "GenesiPassword-1.1.0"
+-- 	url = "https://github.com/TiagoDanin/GenesiPassword/archive/1.1.1.tar.gz",
+-- 	dir = "GenesiPassword-1.1.1"
 -- }
 
 description = {
